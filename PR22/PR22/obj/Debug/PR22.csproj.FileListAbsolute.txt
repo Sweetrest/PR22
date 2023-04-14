@@ -1,0 +1,11 @@
+G:\ОАП\PR22\PR22\bin\Debug\PR22.exe.config
+G:\ОАП\PR22\PR22\bin\Debug\PR22.exe
+G:\ОАП\PR22\PR22\bin\Debug\PR22.pdb
+G:\ОАП\PR22\PR22\obj\Debug\PR22.csproj.AssemblyReference.cache
+G:\ОАП\PR22\PR22\obj\Debug\PR22.csproj.SuggestedBindingRedirects.cache
+G:\ОАП\PR22\PR22\obj\Debug\PR22.Form1.resources
+G:\ОАП\PR22\PR22\obj\Debug\PR22.Properties.Resources.resources
+G:\ОАП\PR22\PR22\obj\Debug\PR22.csproj.GenerateResource.cache
+G:\ОАП\PR22\PR22\obj\Debug\PR22.csproj.CoreCompileInputs.cache
+G:\ОАП\PR22\PR22\obj\Debug\PR22.exe
+G:\ОАП\PR22\PR22\obj\Debug\PR22.pdb
